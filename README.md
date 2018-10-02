@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## チーム名
+酒温泉東  〜太陽は東から昇る〜
 
-Things you may want to cover:
+## プロジェクト名
+スケジュールモンスター
 
-* Ruby version
+## エレベーターピッチ
 
-* System dependencies
+* 「旅行先でスケジュールが立てられない課題」を解決したい
 
-* Configuration
+* 「めんどくさい，時間に余裕がない人」向けの
 
-* Database creation
+* 「スケジュールを自動で生成してくれるサービス」を実現する
 
-* Database initialization
+* 「スケジュールモンスター」です
 
-* How to run the test suite
+* これは，「スケジュールを自動で生成すること」ができ，
 
-* Services (job queues, cache servers, search engines, etc.)
+* 「スケジュール表」とは違って
 
-* Deployment instructions
-
-* ...
+* 「自動でスケジュールを立てる機能」が備わっています
